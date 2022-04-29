@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a Java Backend Developer
 - 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning Spring Boot 2 and Node JS
-- 💞️ I’m looking to collaborate on Java and Javascript related projects
+- 🌱 I’m currently learning Spring Boot 2 and AWS
+- 💞️ I’m looking to collaborate on Java, Spring Boot and Microservices related project
 - 📫 How to reach me ...
 
 <!---
